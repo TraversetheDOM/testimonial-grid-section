@@ -1,0 +1,59 @@
+/* Media queries */
+
+/* For screen size of 1024px and above  */
+@media screen and (min-width: 64em) {
+  .testimonial_grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .Daniel {
+    grid-column: 1/3;
+  }
+
+  .Kira {
+    grid-column: 1/2;
+    grid-row: 2/4;
+  }
+
+  .Jonathan {
+    grid-column: 2/-1;
+    grid-row: 2/3;
+  }
+
+  .Jeanette {
+    grid-column: 2/-1;
+  }
+
+  .Patrick {
+    grid-column: 1/-1;
+  }
+}
+
+/* For screen sizes of 1440px and above */
+@media screen and (min-width: 90em) {
+  .container {
+    max-width: 130rem;
+  }
+
+  .testimonial_grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .Jonathan {
+    grid-column: 3/4;
+    grid-row: 1/2;
+  }
+
+  .Kira {
+    grid-column: 4/-1;
+    grid-row: 1/3;
+  }
+
+  .Patrick {
+    grid-column: 2/4;
+  }
+
+  .Jeanette {
+    grid-column: 1/2;
+  }
+}

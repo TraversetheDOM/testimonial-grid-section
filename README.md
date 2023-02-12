@@ -34,8 +34,8 @@ _A mobile view of the project_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/salutDami/testimonial-grid-section)
-- Live Site URL: [Add live site URL here](https://salutdami.github.io/testimonial-grid-section/)
+- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/testimonial-grid-section)
+- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/testimonial-grid-section/)
 
 ## My process
 

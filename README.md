@@ -34,8 +34,8 @@ _A mobile view of the project_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/testimonial-grid-section)
-- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/testimonial-grid-section/)
+- Solution URL: [Add solution URL here](https://github.com/stephenikuomola/testimonial-grid-section)
+- Live Site URL: [Add live site URL here](https://stephenikuomola.github.io/testimonial-grid-section/)
 
 ## My process
 
@@ -49,7 +49,7 @@ _A mobile view of the project_
 
 ### What I learned
 
-I really enjoyed working with on this project beacause I got to work alot with CSS Grid which was really fun to do.
+I enjoyed working on this project because I got to work a lot with CSS Grid, which was fun to do.
 
 You can see the code snippet below;
 
@@ -78,6 +78,6 @@ I want to keep doing more projects to improve my HTML and CSS.
 
 ## Author
 
-- Twitter - [@\_salutDami](https://www.twitter.com/_salutDami)
+- Twitter - [@\_salutDami](https://www.twitter.com/stephenikuomola)
 - Linkedin- [Ikuomola Stephen](https://www.linkedin.com/in/ikuomola-stephen/)
-- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/salutDami)
+- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/stephenikuomola)
